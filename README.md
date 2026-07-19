@@ -56,7 +56,7 @@ Bank-Bot/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com//Bank-Bot.git
+git clone https://github.com/Hakkeem7/Bank-Bot.git
 ```
 
 ### Navigate to the Project
