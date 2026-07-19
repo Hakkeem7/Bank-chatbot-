@@ -161,10 +161,8 @@ The chatbot answers questions related to:
 
 ## 📸 Screenshot
 
-Add your chatbot interface screenshot here.
-
 ```
-images/bankbot.png
+images/img.png
 ```
 
 ---
@@ -197,18 +195,11 @@ TinyLlama
 
 **Abdul**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Hakkeem7
 
-LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+LinkedIn: https://www.linkedin.com/in/kabdul-hakkeem/
 
 ---
-
 ## ⭐ Acknowledgements
 
 - TinyLlama
